@@ -53,4 +53,3 @@ Choisir pour Client Authentication send as basic Aouth header
 Choisir pour Grand Type -> password credential
 ```
 
-## @fageniuscode
